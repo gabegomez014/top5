@@ -1,6 +1,6 @@
 # Top5
 
-During the summer of 2017, I did an internship at Citrix Systems. While there, I also worked on my very first Android application with a group of guys named Charless Hennessey (our lead devloper for this project) (https://github.com/fr0hike/), and Joseph DiBartolo (the one who brought us together to work on this contract) (https://www.linkedin.com/in/jtdibartolo/). Due to the fact I had an internship and was committed to the work I was doing there, I had taken on a relatively small role for this project.
+During the summer of 2017, I did an internship at Citrix Systems. While there, I also worked on my very first Android application with a group of guys named Charles Hennessey (our lead devloper for this project) (https://github.com/fr0hike/), and Joseph DiBartolo (the one who brought us together to work on this contract) (https://www.linkedin.com/in/jtdibartolo/). Due to the fact I had an internship and was committed to the work I was doing there, I had taken on a relatively small role for this project.
 
 Since this Android application was a contract, I do not have the right the place the code we had created for our client. As a substitute, I will instead explain the general idea and concept of the tasks that needed to be done, and the role I played.
 
