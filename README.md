@@ -1,5 +1,5 @@
 # Top5
-Disclaimer: Not yet on the App store
+Disclaimer: Not yet on the App store due to client not wanting to release yet.
 
 During the summer of 2017, I did an internship at Citrix Systems. While there, I also worked on my very first Android application with a group of guys named Charles Hennessey (our lead devloper for this project) (https://github.com/fr0hike/), and Joseph DiBartolo (the one who brought us together to work on this contract) (https://www.linkedin.com/in/jtdibartolo/). Due to the fact I had an internship and was committed to the work I was doing there, I had taken on a relatively small role for this project.
 
